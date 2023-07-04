@@ -1,5 +1,4 @@
 # ECG-classification-using-SRCNN
--git commit -m 
 Co-authored-by: Nandhakumar G <kumaranandha@gmail.com>
 Co-authored-by: Kaavya R <kaavyarajesh11@gmail.com>
 This project concentrates on classifying the heartbeats into 5 different categories namely:
