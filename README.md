@@ -1,5 +1,5 @@
 # ECG-classification-using-SRCNN
-Co-authored by: Kaavya R <Kaavyarajesh11@gmail.com> and Nandhakumar G <kumaranandha@gmail.com>
+Co-authored by: Kaavya R <Kaavyarajesh11@gmail.com> and Nandhakumar G <kumaranandha91@gmail.com>
 This project concentrates on classifying the heartbeats into 5 different categories namely:
 1.Normal beats
 2.Unknown beats
